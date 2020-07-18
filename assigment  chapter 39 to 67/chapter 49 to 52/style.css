@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#SignUp {
+    padding: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#SignUp input[type = "text"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 225px;
+}
+
+#SignUp input[type = "email"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 50px;
+    width: 225px;
+}
+
+#SignUp input[type = "password"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 12px;
+    width: 225px;
+}
+
+#btnSubmit {
+    padding: 4px 15px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#btnSubmit:hover {
+    color: rgb(44, 31, 31);
+}
+
+#displayInfo {
+    padding: 10px;
+    font-size: 30px;
+}
+
+
+/*  */
+
+#AboutMe {
+    font-size: 30px;
+    padding: 10px;
+}
